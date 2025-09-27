@@ -11,23 +11,27 @@ I am a PhD student in computer science at University of Southern California, adv
 
 
 ## Selected Publications
-xxx
-[]()
+[**The Diffusion of Causal Language in Social Networks**](https://ojs.aaai.org/index.php/ICWSM/article/view/31399)
 
+Zhuoyu Shi, Fred Morstatter
+
+<i class="fa-regular fa-bookmark"></i> ICWSM 2024
 
 ## Talks
-**The Diffusion of Causal Language in Social Networks**
-- Plenary Talk at IC2S2 2024 (acceptance rate: 2.82%) <span style="float:right;">2025</span>
-- Talk at ICWSM 2024 (single track) 
+The Diffusion of Causal Language in Social Networks
+- **Plenary Talk (acceptance rate: 2.82%)** at IC2S2 2024 <span style="float:right;">2024.07, Philadelphia, USA</span>
+- Talk at ICWSM 2024 (single track) <span style="float:right;">2024.06, Buffalo, USA</span>
 
 ## Teaching
-* TA
+* Teaching Assistant for USC DSCI 553: Foundations and Applications of Data Mining <span style="float:right;">Fall 2025, Fall 2024, Fall 2023</span>
+* Teaching Assistant for USC CSCI 585: Database Systems <span style="float:right;">Summer 2025</span>
 
 
 ## Award
-* 
+* ICWSM 2024 Scholarship 
+* SBP-BRiMS 2022 Travel Grant 
 
 ## Service
 * PC/Reviewer for ICWSM 2024-2026, IC2S2 2025, CIKM 2023, WebSci 2025
-* Host of USC ISI AI Seminar 2023-now
+* Host of USC ISI AI Seminar 2023.07 - now
 
