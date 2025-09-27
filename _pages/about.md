@@ -23,8 +23,10 @@ The Diffusion of Causal Language in Social Networks
 - Talk at ICWSM 2024 (single track) <span style="float:right;">2024.06, Buffalo, USA</span>
 
 ## Teaching
-* Teaching Assistant for USC DSCI 553: Foundations and Applications of Data Mining <span style="float:right;">Fall 2025, Fall 2024, Fall 2023</span>
-* Teaching Assistant for USC CSCI 585: Database Systems <span style="float:right;">Summer 2025</span>
+* Teaching Assistant for USC DSCI 553: Foundations and Applications of Data Mining
+  * Fall 2025, Fall 2024, Fall 2023
+* Teaching Assistant for USC CSCI 585: Database Systems
+  * Summer 2025
 
 
 ## Award
@@ -32,6 +34,6 @@ The Diffusion of Causal Language in Social Networks
 * SBP-BRiMS 2022 Travel Grant 
 
 ## Service
-* PC/Reviewer for ICWSM 2024-2026, IC2S2 2025, CIKM 2023, WebSci 2025
-* Host of USC ISI AI Seminar 2023.07 - now
+* PC/Reviewer for ICWSM 2024-2026, IC2S2 2025, CIKM 2024, WebSci 2025
+* Host of USC ISI AI Seminar (2023.07 - now)
 
