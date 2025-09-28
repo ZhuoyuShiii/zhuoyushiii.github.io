@@ -15,17 +15,17 @@ I am a PhD student in computer science at University of Southern California, adv
 
 Zhuoyu Shi, Fred Morstatter
 
-<i class="fa-regular fa-bookmark"></i> [ICWSM 2024](https://www.icwsm.org/2024/index.html/)
+<i class="fa-regular fa-bookmark"></i> The 18th International AAAI Conference on Web and Social Media (ICWSM 2024)
 
 ## Talks
 The Diffusion of Causal Language in Social Networks
-- **Plenary Talk (<i class="fa-solid fa-award"></i> acceptance rate: 2.82%)** at [IC2S2 2024](https://ic2s2-2024.org) <span style="float:right;">2024.07, Philadelphia, USA</span>
-- Talk at [ICWSM 2024](https://www.icwsm.org/2024/index.html/) (single track) <span style="float:right;">2024.06, Buffalo, USA</span>
+- **<i class="fa-solid fa-award"></i> Plenary Talk** (acceptance rate: **2.82%**) at 10th International Conference on Computational Social Science (IC2S2 2024) <span style="float:right;">2024.07, Philadelphia, USA</span>
+- Talk at The 18th International AAAI Conference on Web and Social Media (ICWSM 2024) (single track) <span style="float:right;">2024.06, Buffalo, USA</span>
 
 
 ## Award
-* [ICWSM 2024](https://www.icwsm.org/2024/index.html/) Scholarship 
-* [SBP-BRiMS 2022](https://sbp-brims.org/2022/) Scholarship
+* ICWSM 2024 Scholarship 
+* SBP-BRiMS 2022 Scholarship
 
 
 ## Teaching
