@@ -19,7 +19,7 @@ Zhuoyu Shi, Fred Morstatter
 
 ## Talks
 The Diffusion of Causal Language in Social Networks
-- **<i style="color:#e74d3c;font-size:12px;" class="fa-solid fa-award"></i> Plenary Talk** (acceptance rate: **2.82%**) at **IC2S2 2024** (10th International Conference on Computational Social Science) <span style="float:right;">2024.07, Philadelphia, USA</span>
+- **<i style="color:#FF8C00" class="fa-solid fa-award"></i> Plenary Talk** (acceptance rate: **2.82%**) at **IC2S2 2024** (10th International Conference on Computational Social Science) <span style="float:right;">2024.07, Philadelphia, USA</span>
 - Talk at **ICWSM 2024** (The 18th International AAAI Conference on Web and Social Media) (single track) <span style="float:right;">2024.06, Buffalo, USA</span>
 
 
