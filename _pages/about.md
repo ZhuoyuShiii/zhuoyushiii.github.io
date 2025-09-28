@@ -11,7 +11,7 @@ I am a PhD student in computer science at University of Southern California, adv
 
 
 ## Selected Publications
-(**ICWSM 2024**) The Diffusion of Causal Language in Social Networks [(link)](https://ojs.aaai.org/index.php/ICWSM/article/view/31399)
+(**ICWSM 2024**) **The Diffusion of Causal Language in Social Networks** [(paper)](https://ojs.aaai.org/index.php/ICWSM/article/view/31399)
 
 Zhuoyu Shi, Fred Morstatter
 
