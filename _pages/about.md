@@ -23,7 +23,7 @@ Zhuoyu Shi, Fred Morstatter
 - Talk at **<a style="color:inherit" href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>** (single track) <span style="float:right;">2024.06, Buffalo, USA</span>
 
 
-## Award
+## Awards
 * ICWSM 2024 Scholarship 
 * SBP-BRiMS 2022 Scholarship
 
