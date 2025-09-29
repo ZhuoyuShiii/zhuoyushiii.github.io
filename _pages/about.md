@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at University of Southern California, advised by Prof. [Fred Morstatter](https://scholar.google.com/citations?user=u-8h3HcAAAAJ&hl=en). I use computational methods and social media data to understand social behavior, especially how people use and influenced by causal language. 
+I am a PhD student in computer science at University of Southern California, advised by Prof. <a style="color:inherit" href="https://scholar.google.com/citations?user=u-8h3HcAAAAJ&hl=en">Fred Morstatter</a>. I use computational methods and social media data to understand social behavior, especially how people use and influenced by causal language. 
 
 
 ## Selected Publications
-(**ICWSM 2024**) **The Diffusion of Causal Language in Social Networks** [(paper)](https://ojs.aaai.org/index.php/ICWSM/article/view/31399)
+(**ICWSM 2024**) **The Diffusion of Causal Language in Social Networks** [<a style="color:inherit" href="https://ojs.aaai.org/index.php/ICWSM/article/view/31399">(paper)</a>]
 
 Zhuoyu Shi, Fred Morstatter
 
@@ -19,7 +19,7 @@ Zhuoyu Shi, Fred Morstatter
 
 ## Talks
 The Diffusion of Causal Language in Social Networks
-- **<i style="color:#FF8C00" class="fa-solid fa-award"></i> Plenary Talk** (acceptance rate: **2.82%**) at **[IC2S2 2024](https://ic2s2-2024.org)** 
+- **<i style="color:#FF8C00" class="fa-solid fa-award"></i> Plenary Talk** (acceptance rate: **2.82%**) at **<a style="color:inherit" href="https://ic2s2-2024.org">IC2S2 2024</a>** 
 <!-- <span style="float:right;">2024.07, Philadelphia, USA</span> -->
 - Talk at **<a style="color:inherit" href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>** (single track)
 <!-- <span style="float:right;">2024.06, Buffalo, USA</span> -->
