@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at University of Southern California, advised by Prof. <a style="color:inherit" href="https://scholar.google.com/citations?user=u-8h3HcAAAAJ&hl=en">Fred Morstatter</a>. I use computational methods and social media data to understand social behavior, especially how people use and are influenced by causal language. 
+I am a PhD student in computer science at University of Southern California, working with Prof. <a style="color:inherit" href="https://scholar.google.com/citations?user=u-8h3HcAAAAJ&hl=en">Fred Morstatter</a>. I use computational methods and social media data to understand social behavior, especially how people use and are influenced by causal language. 
 
 
 ## Selected Publications
