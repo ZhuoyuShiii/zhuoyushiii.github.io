@@ -13,9 +13,9 @@ I am a PhD candidate in Computer Science at University of Southern California, w
 ## Selected Publications
 
 * (**ICWSM 2024**) <a style="color:inherit" href="https://ojs.aaai.org/index.php/ICWSM/article/view/31399">**The Diffusion of Causal Language in Social Networks.**</a>
-_Zhuoyu Shi, Fred Morstatter_
+_**Zhuoyu Shi**, Fred Morstatter_
 * (**CSCW 2026**) **Causal Language in Post Titles Shapes Deeper Topological Structures of Online Conversations.**
-_Zhuoyu Shi, Fred Morstatter_
+_**Zhuoyu Shi**, Fred Morstatter_
 
 <!-- <i class="fa-regular fa-bookmark"></i> The 18th International AAAI Conference on Web and Social Media -->
 
