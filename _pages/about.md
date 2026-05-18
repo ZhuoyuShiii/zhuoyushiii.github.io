@@ -11,8 +11,11 @@ I am a PhD candidate in Computer Science at University of Southern California, w
 
 
 ## Selected Publications
-(**ICWSM 2024**) **The Diffusion of Causal Language in Social Networks** <a style="color:inherit" href="https://ojs.aaai.org/index.php/ICWSM/article/view/31399">(paper)</a>
 
+(**ICWSM 2024**) **The Diffusion of Causal Language in Social Networks** <a style="color:inherit" href="https://ojs.aaai.org/index.php/ICWSM/article/view/31399">(paper)</a>
+Zhuoyu Shi, Fred Morstatter
+
+(**CSCW 2026**) **Causal Language in Post Titles Shapes Deeper Topological Structures of Online Conversations**
 Zhuoyu Shi, Fred Morstatter
 
 <!-- <i class="fa-regular fa-bookmark"></i> The 18th International AAAI Conference on Web and Social Media -->
@@ -39,7 +42,7 @@ Zhuoyu Shi, Fred Morstatter
 
 
 ## Service
-* Global Initiative Co-Chair at ICWSM 2026
+* Global Initiative Co-Chair at ICWSM 2026, 2027
 * PC/Reviewer for ICWSM 2024-2026, IC2S2 2025-2026, CIKM 2024, WebSci 2025, CySoc 2026
 * Host of USC ISI AI Seminar (2023.07 - now)
 
