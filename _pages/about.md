@@ -43,5 +43,5 @@ _**Zhuoyu Shi**, Fred Morstatter_
 ## Service
 * Global Initiative Co-Chair at ICWSM 2026, 2027
 * PC/Reviewer for ICWSM 2024-2026, IC2S2 2025-2026, CIKM 2024, WebSci 2025, CySoc 2026
-* Host of USC ISI AI Seminar (2023.07 - now)
+* Host of USC ISI AI Seminar (2023.07 - 2024.07)
 
