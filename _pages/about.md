@@ -14,17 +14,23 @@ I am a PhD candidate in Computer Science at University of Southern California, w
 
 * (**ICWSM 2024**) <a style="color:inherit" href="https://ojs.aaai.org/index.php/ICWSM/article/view/31399">**The Diffusion of Causal Language in Social Networks.**</a>
 _**Zhuoyu Shi**, Fred Morstatter_
-* (**CSCW 2026**) **Causal Language in Post Titles Shapes Deeper Topological Structures of Online Conversations.**
+* (**CSCW 2026**) <a style="color:inherit" href="https://arxiv.org/pdf/2608.22146">**Causal Language in Post Titles Shapes Deeper Topological Structures of Online Conversations.**</a>
 _**Zhuoyu Shi**, Fred Morstatter_
 
 <!-- <i class="fa-regular fa-bookmark"></i> The 18th International AAAI Conference on Web and Social Media -->
 
 ## Talks
-**The Diffusion of Causal Language in Social Networks**
+The Diffusion of Causal Language in Social Networks
 - **<i style="color:#FF8C00" class="fa-solid fa-award"></i> Plenary Talk** (**20** out of **556** accepted papers) at **<a style="color:inherit" href="https://ic2s2-2024.org">IC2S2 2024</a>**
 <!-- <span style="float:right;">2024.07, Philadelphia, USA</span> -->
 - Talk at **<a style="color:inherit" href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>** (single track)
 <!-- <span style="float:right;">2024.06, Buffalo, USA</span> -->
+
+The Emergence of Causal Curiosity from Existing Causal Belief Networks
+- Talk at **<a style="color:inherit" href="https://www.netsci2026.com">NetSci 2026 </a>**
+
+Causal language in post titles shapes deeper topological structures of online conversations
+- Talk at **<a style="color:inherit" href="https://cscw.acm.org/2026/">CSCW 2026 </a>**
 
 
 ## Awards
@@ -41,7 +47,7 @@ _**Zhuoyu Shi**, Fred Morstatter_
 
 
 ## Service
-* Global Initiative Co-Chair at ICWSM 2026, 2027
+* **Global Initiative Co-Chair** at ICWSM 2026, 2027
 * PC/Reviewer for ICWSM 2024-2026, IC2S2 2025-2026, CIKM 2024, WebSci 2025, CySoc 2026
 * Host of USC ISI AI Seminar (2023.07 - 2024.07)
 
