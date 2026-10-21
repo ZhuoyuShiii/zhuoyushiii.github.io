@@ -18,7 +18,7 @@ _**Zhuoyu Shi**, Fred Morstatter_
 _**Zhuoyu Shi**, Fred Morstatter_
 * (**KDD** 2026) <a style="color:inherit" href="[/article/view/31399](https://dl.acm.org/doi/abs/10.1145/3770855.3817910)">**On the Role of Anticausal Direction in LLM-based Data Synthesis.**</a>
 _Bohan Jiang, Pingchuan Ma, Zhen Tan, **Zhuoyu Shi**, Fred Morstatter, Adrienne Raglin, Huan Liu_
-* (**WSDM** 2026 <a style="color:inherit" href="[/article/view/31399]([https://dl.acm.org/doi/abs/10.1145/3770855.3817910](https://dl.acm.org/doi/abs/10.1145/3773966.3779380)">**On Causal and Anticausal LLM-based Data Synthesis.**</a>
+* (**WSDM** 2026) <a style="color:inherit" href="[/article/view/31399]([https://dl.acm.org/doi/abs/10.1145/3770855.3817910](https://dl.acm.org/doi/abs/10.1145/3773966.3779380)">**On Causal and Anticausal LLM-based Data Synthesis.**</a>
 _Bohan Jiang, Pingchuan Ma, **Zhuoyu Shi**, Fred Morstatter, Adrienne Raglin, Huan Liu_
 
 <!-- <i class="fa-regular fa-bookmark"></i> The 18th International AAAI Conference on Web and Social Media -->
