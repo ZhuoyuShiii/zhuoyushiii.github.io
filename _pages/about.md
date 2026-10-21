@@ -12,7 +12,7 @@ I am a PhD candidate in Computer Science at University of Southern California, w
 
 ## Selected Publications
 
-* (**CSCW 2026**) <a style="color:inherit" href="https://arxiv.org/pdf/2608.22146">**Causal Language in Post Titles Shapes Deeper Topological Structures of Online Conversations.**</a>
+* (**CSCW 2026**) <a style="color:inherit" href="https://dl.acm.org/doi/pdf/10.1145/3816908">**Causal Language in Post Titles Shapes Deeper Topological Structures of Online Conversations.**</a>
 _**Zhuoyu Shi**, Fred Morstatter_
 * (**ICWSM 2024**) <a style="color:inherit" href="https://ojs.aaai.org/index.php/ICWSM/article/view/31399">**The Diffusion of Causal Language in Social Networks.**</a>
 _**Zhuoyu Shi**, Fred Morstatter_
@@ -29,10 +29,13 @@ _Bohan Jiang, Pingchuan Ma, **Zhuoyu Shi**, Fred Morstatter, Adrienne Raglin, Hu
   <!-- <span style="float:right;">2024.07, Philadelphia, USA</span> -->
   - Talk at **<a style="color:inherit" href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>** (single track)
   <!-- <span style="float:right;">2024.06, Buffalo, USA</span> -->
-* The Emergence of Causal Curiosity from Existing Causal Belief Networks
-  - Talk at **<a style="color:inherit" href="https://www.netsci2026.com">NetSci 2026 </a>**
 * Causal language in post titles shapes deeper topological structures of online conversations
   - Talk at **<a style="color:inherit" href="https://cscw.acm.org/2026/">CSCW 2026 </a>**
+* The Emergence of Causal Curiosity from Existing Causal Belief Networks
+  - Talk at **<a style="color:inherit" href="https://www.netsci2026.com">NetSci 2026 </a>**
+* Gender Attribution in Causal Beliefs
+  - Talk at **<a style="color:inherit" href="https://asonam.cpsc.ucalgary.ca/2026/">ASONAM 2026 </a>**
+
 
 
 ## Awards
